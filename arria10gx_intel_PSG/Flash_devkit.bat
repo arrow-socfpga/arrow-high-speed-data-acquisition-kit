@@ -37,7 +37,7 @@ IF %errorLevel% NEQ 0 (
   ECHO --
   ECHO -- Configure the dev kit to boot the Board Update Portal
   ECHO --
-  ECHO -- 1. Press switch S5 until PGM_LED2 (right most LED) is lit
+  ECHO -- 1. Press switch S5 until PGM_LED0 ( D14 - right most LED) is lit
   ECHO -- 2. Press switch S6 to configure the board.
   ECHO ------------------------------------------------------------------------------
   PAUSE
