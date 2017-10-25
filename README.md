@@ -1,14 +1,12 @@
-instructions getting revision and repository
-
-direct to chapters in user guide
-
-link to ADI Engineer zone - fpga ref designs
 
 link to arrow landing page
 
-link for questions
+revisions and repository
 
-link for arrow sales
+getting started
 
-link to purchase kit
+link to ADI Engineer zone - fpga ref designs
+
+
+
 
