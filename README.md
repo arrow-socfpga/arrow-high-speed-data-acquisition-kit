@@ -1,9 +1,10 @@
 Getting Started
 ---------------
 
-1. Select the desired branch revision
+1. Download the User Guide
 
-  latest = 2017_r1
+      Revision      Filename      Intel PSG Revision
+      --------      --------      ------------------
 
 2. 
 
