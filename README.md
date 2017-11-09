@@ -3,8 +3,9 @@ Getting Started
 
 1. Select the desired branch revision
 
-Current Revisions
------------------
+  latest = 2017_r1
+
+2. 
 
 link to arrow landing page
 
