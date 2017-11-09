@@ -1,3 +1,10 @@
+Getting Started
+---------------
+
+1. Select the desired branch revision
+
+Current Revisions
+-----------------
 
 link to arrow landing page
 
