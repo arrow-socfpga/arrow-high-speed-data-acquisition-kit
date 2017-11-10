@@ -2,7 +2,7 @@
 
 The Arrow High Speed Data Acquisition Kit is available on the [Arrow.com](https://arrow.com) website. Click for more information. 
 
-Follow steps 1 through 5 to experience the "out of box" demonstration.
+## Follow steps 1 through 5 for an initial  "out of box" experience.
 
 #### 1. Download the User Guide
 
