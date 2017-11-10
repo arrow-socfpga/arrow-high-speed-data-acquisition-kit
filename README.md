@@ -22,14 +22,10 @@ The Arrow High Speed Data Acquisition Kit is available on the [Arrow.com](https:
 
 
 
-Follow steps 6 through 7 to rebuild the reference designs used in the demonstration.
+## Follow steps 6 through 7 to rebuild the reference designs used in the demonstration.
 
 #### 6. Build the Hardware and Software Reference designs (Chapter 8)
 
 #### 7. Flash the Arria 10 GX Development kit (Chapter 9)
 
-link to arrow landing page
 
-
-
-link to ADI Engineer zone - fpga ref designs
