@@ -27,5 +27,6 @@ The Arrow High Speed Data Acquisition Kit is available on the [Arrow.com](https:
 #### 6. Build the Hardware and Software Reference designs (Chapter 8)
 
 #### 7. Flash the Arria 10 GX Development kit (Chapter 9)
+;lajsdl;fkjasd;lfkjas;dlfksd;fklj
 
 
