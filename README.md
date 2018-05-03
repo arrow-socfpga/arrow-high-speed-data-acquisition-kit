@@ -1,6 +1,6 @@
 # Getting Started
 
-The Arrow High Speed Data Acquisition Kit is available on the [Arrow.com](https://arrow.com) website. Click for more information. 
+The Arrow High Speed Data Acquisition Kit is available on the [Arrow.com](https://www.arrow.com/en/research-and-events/articles/arrow-high-speed-daq-kit) website. Click for more information. 
 
 ## Follow steps 1 through 5 for an initial  "out of box" experience.
 
